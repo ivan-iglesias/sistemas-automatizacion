@@ -1,0 +1,3 @@
+/mnt/serv_datos/DATOS_COMPARTIDOS/$YEAR/$MONTH/$DAY/eri_2g/
+/mnt/serv_datos/DATOS_COMPARTIDOS/$YEAR/$MONTH/$DAY/eri_2g/msc/
+/mnt/serv_datos/DATOS_COMPARTIDOS/*nombre*
